@@ -317,14 +317,14 @@ export class MenuScene {
       "Simulation and Animation, SS 2026",
       "",
       "DEVELOPERS",
-      "Bernhard Steiner, 12005187",
-      "Rijad Kovačević, 01231648",
+      "Bernhard Steiner",
+      "Rijad Kovačević",
       "",
       "CREDITS",
       "Codex AI for code refactoring and debugging assistance",
       "",
       "RESOURCES",
-      "[Resource links and materials]",
+      "https://kenney.nl/assets/space-shooter-remastered",
       "",
 
     ];
